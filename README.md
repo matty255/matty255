@@ -3,9 +3,6 @@
   
  ## How to Become a Front-End Developer
 
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matty255)](https://github.com/anuraghazra/github-readme-stats)
-
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-light-mode-only)
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/languages.svg#gh-dark-mode-only)
