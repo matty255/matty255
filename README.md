@@ -29,7 +29,7 @@
 
    </div> 
    
-   # Blog posts
+   # Latest posts of [@matty255](https://velog.io/@matt2550)
 <!-- BLOG-POST-LIST:START -->
  - 🐧 [원티드 프리온보딩 - 숏에세이](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%88%8F%EC%97%90%EC%84%B8%EC%9D%B4)
  - 🌮 [토이프로젝트 #1 : pokeAPI를 활용한 포켓몬 도감 만들기](https://velog.io/@matt2550/%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-pokeAPI%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8F%AC%EC%BC%93%EB%AA%AC-%EB%8F%84%EA%B0%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
