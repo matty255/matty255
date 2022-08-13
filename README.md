@@ -41,9 +41,9 @@
    
    # Latest posts of [@matty255](https://velog.io/@matt2550)
 <!-- BLOG-POST-LIST:START -->
- - 🐧 [원티드 프리온보딩 챌린지 1주차 과제 1/2](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80)
- - 🌮 [원티드 프리온보딩 코스 회고](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%BD%94%EC%8A%A4-%ED%9A%8C%EA%B3%A0)
- - 🎉 [토이프로젝트 #3 : Schedule_EngAll](https://velog.io/@matt2550/%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-3-ScheduleEngAll)<!-- BLOG-POST-LIST:END -->
+ - 🐧 [원티드 프리온보딩 챌린지 1주차 과제 2/2](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-22)
+ - 🌮 [원티드 프리온보딩 챌린지 1주차 과제 1/2](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80)
+ - 🎉 [원티드 프리온보딩 코스 회고](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%BD%94%EC%8A%A4-%ED%9A%8C%EA%B3%A0)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **matty255/matty255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
