@@ -41,9 +41,9 @@
    
    # Latest posts of [@matty255](https://velog.io/@matt2550)
 <!-- BLOG-POST-LIST:START -->
- - 🐧 [원티드 프리온보딩 챌린지 10월 사전과제](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-10%EC%9B%94-%EC%82%AC%EC%A0%84%EA%B3%BC%EC%A0%9C)
- - 🌮 [원티드 프리온보딩 챌린지 2주차 과제 2/3](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-23)
- - 🎉 [원티드 프리온보딩 챌린지 2주차 과제 1/3](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-13)<!-- BLOG-POST-LIST:END -->
+ - 🐧 [코로나19에 가장 필요한 물품](https://velog.io/@matt2550/%EC%BD%94%EB%A1%9C%EB%82%9819%EC%97%90-%EA%B0%80%EC%9E%A5-%ED%95%84%EC%9A%94%ED%95%9C-%EB%AC%BC%ED%92%88)
+ - 🌮 [원티드 프리온보딩 챌린지 10월 사전과제](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-10%EC%9B%94-%EC%82%AC%EC%A0%84%EA%B3%BC%EC%A0%9C)
+ - 🎉 [원티드 프리온보딩 챌린지 2주차 과제 2/3](https://velog.io/@matt2550/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%B1%8C%EB%A6%B0%EC%A7%80-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-23)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **matty255/matty255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
