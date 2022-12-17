@@ -3,7 +3,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=wellcome%20adventurers!&animation=fadeIn&fontSize=50&desc=I'm%20HY.%20Lee!&descAlign=85&descAlignY=70)
   
- ## How to Become a Front-End Developer
+ ## I'm a Front-End Developer
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-light-mode-only)
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/languages.svg#gh-dark-mode-only)
