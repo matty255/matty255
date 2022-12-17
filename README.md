@@ -4,18 +4,20 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=wellcome%20adventurers!&animation=fadeIn&fontSize=50&desc=I'm%20HY.%20Lee!&descAlign=85&descAlignY=70)
   
  ## I'm a Front-End Developer
+ <!--
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/overview.svg#gh-light-mode-only)
   ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/matty255/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmatty255&count_bg=%23FFD948&title_bg=%23353535&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+--!>
  </div> 
  
  
  <div align=center >
   
-  ## Tech Skills
+
 <p>
  <img src="https://camo.githubusercontent.com/9e76433e522e0966c02e4dda5abc571f343a13489331bf40f29dce123e93b2e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/b7adaf63151bd2e9bfadeccf03786bec3e0b8a954cf17ba2ee2586d0f3a96ef3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3837434546413f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-87CEFA?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;">
